@@ -21,7 +21,7 @@ We trained 12 learnable prompt tokens per emotion (sad, happy, calm) on a frozen
 
 ## Listen to Generated Examples
 
-Visit the [demo page](https://Pavel-coder-2020.github.io/Emotion-Music-Generation/) to listen to audio examples of the generated music.
+Visit the [demo page](https://Pavel-Pomozov.github.io/Emotion-Music-Generation/) to listen to audio examples of the generated music.
 
 ## Repository Structure
 
